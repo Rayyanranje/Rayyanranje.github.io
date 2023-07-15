@@ -1,4 +1,4 @@
-## MY MPROJECTS
+## MY PROJECTS
 
 ---
 
