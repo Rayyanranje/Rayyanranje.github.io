@@ -1,3 +1,3 @@
-# Rayyanranje.github.io
+# Data Analyst | Python Developer
 
-Hi this is my portflio
+Hi this is my portfolio
