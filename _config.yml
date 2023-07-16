@@ -1,16 +1,5 @@
 title: Rayyan Ranje # your name (or website title) here
-#logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
-logo: <img src="/images/linkedin.jpg" alt="avatar" class="profile-pic">
-<div class="image-cropper">
-  <img src="/images/linkedin.jpg" alt="avatar" class="profile-pic">
-</div>
-.image-cropper {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-}
+logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
 show download: true
 description: Tech-savvy IT fresher with a B.tech in IT, adept in Python, SQL, Excel, and possessing foundational knowledge of Power BI and Azure. Passionate about data analysis.
  <br><br>
