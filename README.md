@@ -9,7 +9,7 @@ Created a heart disease prediction model and found important attributes that res
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#)
 
 
-[View code on Colab](https://colab.research.google.com/drive/15kAGFC7SCledLDEHm6rQUeXAw07yTgJC#scrollTo=3OVJTdG0Jn6H)
+[View code on Colab](https://colab.research.google.com/drive/15kAGFC7SCledLDEHm6rQUeXAw07yTgJC)
 
 ---
 
@@ -18,7 +18,9 @@ In my data analysis project, I utilized the Stack Overflow Survey 2022 dataset t
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#)[![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy)](#) [![](https://img.shields.io/badge/Google_Colab-white?logo=google-colab)](#)  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=white)](#)
+ [![](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=white)](#)
+ [![](https://img.shields.io/badge/Google_Colab-white?logo=google-colab)](#)  
 
 [View code on Colab](https://colab.research.google.com/drive/1mXNlNn0fyD99eSKxIF-_ITUMlNAziy5Y#scrollTo=oU_9c5ekDh9W)
 
