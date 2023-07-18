@@ -38,10 +38,15 @@ Analyzed the top skills it takes to be a data analyst versus the average salary 
 ## Cricket World Cup Analysis
 Created a dynamic dashboard using the Power BI tool to analyze the performance of team and players in the 2022 cricket world cup.
 
+[![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
+
 ### Fig 1: Player Analysis
 <img src="images/player_analysis.jpg?raw=true" />
 
 ### Fig 2: Final 11
 <img src="images/final_11.jpg?raw=true" />
+
+
+
 
 
