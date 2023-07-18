@@ -15,9 +15,7 @@ Created a heart disease prediction model and found important attributes that res
 
 ## Examining StackOverflow Developer Survey
 In my data analysis project, I utilized the Stack Overflow Survey 2022 dataset to uncover valuable insights and trends within the developer community, providing actionable information for decision-making and strategic planning.
-<!--
-<img src="images/mobility.png?raw=true" />
--->
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=white)](#)
  [![](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=white)](#)
  [![](https://img.shields.io/badge/Google_Colab-white?logo=google-colab)](#)  
