@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Heart Disease Prediction
+## Heart Disease Prediction
 
 Created a heart disease prediction model and found important attributes that results in heart disease.
 
@@ -13,7 +13,7 @@ Created a heart disease prediction model and found important attributes that res
 
 ---
 
-### Examining StackOverflow Developer Survey
+## Examining StackOverflow Developer Survey
 In my data analysis project, I utilized the Stack Overflow Survey 2022 dataset to uncover valuable insights and trends within the developer community, providing actionable information for decision-making and strategic planning.
 <!--
 <img src="images/mobility.png?raw=true" />
@@ -26,7 +26,7 @@ In my data analysis project, I utilized the Stack Overflow Survey 2022 dataset t
 
 ---
 
-### Data Analyst Skill Check
+## Data Analyst Skill Check
 Analyzed the top skills it takes to be a data analyst versus the average salary an individual can get. For this used a dataset wherein the data was scrapped from various job posting websites. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=white)](#)
@@ -37,7 +37,13 @@ Analyzed the top skills it takes to be a data analyst versus the average salary 
 
 ---
 
-### Cricket World Cup Analysis
-Created a dashboard using the Power BI tool to analyze the performance of team and players in the 2022 cricket world cup.
+## Cricket World Cup Analysis
+Created a dynamic dashboard using the Power BI tool to analyze the performance of team and players in the 2022 cricket world cup.
 
+### Fig 1: Player Analysis
 <img src="images/player_analysis.jpg?raw=true" />
+
+### Fig 2: Final 11
+<img src="images/final_11.jpg?raw=true" />
+
+
