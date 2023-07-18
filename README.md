@@ -41,10 +41,10 @@ Created a dynamic dashboard using the Power BI tool to analyze the performance o
 [![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
 
 #### Fig 1: Player Analysis
-<img src="images/player_analysis.jpg?raw=true" width="1000" height="800"/>
+<img src="images/player_analysis.jpg?raw=true" width="1000" height="600"/>
 
 #### Fig 2: Final 11
-<img src="images/final_11.jpg?raw=true" width="1000" height="800" />
+<img src="images/final_11.jpg?raw=true" width="1000" height="600" />
 
 <a href="WorldCup_Analysis.pbix" download>View Dashboard</a>
 
