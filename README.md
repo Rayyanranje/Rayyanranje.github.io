@@ -44,7 +44,7 @@ Created a dynamic dashboard using the Power BI tool to analyze the performance o
 <img src="images/player_analysis.jpg?raw=true" width="1050" height="350"/>
 
 #### Fig 2: Final 11
-<img src="images/final_11.jpg?raw=true" width="1000" height="600" />
+<img src="images/final_11.jpg?raw=true"/>
 
 <a href="WorldCup_Analysis.pbix" download>View Dashboard</a>
 
