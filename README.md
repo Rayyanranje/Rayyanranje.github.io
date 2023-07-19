@@ -48,6 +48,21 @@ Created a dynamic dashboard using the Power BI tool to analyze the performance o
 
 <a href="WorldCup_Analysis.pbix" download>View Dashboard</a>
 
+---
+
+## Sales Analysis
+Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+
+[![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
+
+#### Fig 1: Sales Analysis
+<img src="images/sales_analysis.jpg?raw=true" width="1050" height="350"/>
+
+#### Fig 2: Forecast
+<img src="images/sales_forecast.jpg?raw=true" width="1050" height="350"/>
+
+<a href="sales.pbix" download>View Dashboard</a>
+
 
 
 
